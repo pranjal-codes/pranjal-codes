@@ -22,9 +22,9 @@
 <a href="https://www.codechef.com/users/nhi_ati_coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nhi_ati_coding" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nahi_aati_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nahi_aati_coding" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nahi_aati_coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="nahi_aati_coding" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nahi_aati_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahi_aati_coding" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pranjalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahi_aati_coding" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@nahi_aati_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nahi_aati_coding" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nahi_aati_coding/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nahi_aati_coding/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pranjalcodes/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nahi_aati_coding/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
